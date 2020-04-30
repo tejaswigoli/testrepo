@@ -1,3 +1,0 @@
-thsi is 3rd test file
-checking commit-am option
-test
